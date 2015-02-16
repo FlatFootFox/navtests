@@ -1,0 +1,23 @@
+{
+  "name": "navtests",
+  "version": "1.0.0",
+  "authors": [
+    "FlatFootFox"
+  ],
+  "description": "Navbar Testing",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "None",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3"
+  }
+}

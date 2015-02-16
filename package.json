@@ -1,0 +1,15 @@
+{
+  "name": "navtests",
+  "version": "1.0.0",
+  "description": "Bootstrap navbar tests",
+  "author": "FlatFootFox",
+  "keywords": "Bootstrap",
+  "dependencies": {
+    "bower": "*",
+    "grunt": "*",
+    "grunt-libsass": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-browser-sync": "*"
+  },
+  "private": "true"
+}
